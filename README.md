@@ -1,31 +1,4 @@
-<!-- Links -->
-[bmac]: https://www.buymeacoffee.com/
-[ko-fi]: https://ko-fi.com/
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=
-[patreon]: https://www.patreon.com/
 
-# Termux Style
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/zakiahsanS/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/zakiahsanS/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/zakiahsanS/termux-style?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/zakiahsanS/termux-style?color=violet&style=for-the-badge">
-</p>
-
-[<img align="left" alt="zakiahsanS | Twitter" width="48px" src="https://raw.githubusercontent.com/zakiahsanS/files/master/other/1.png" />][bmac]
-[<img align="left" alt="zakiahsanS | Reddit" width="48px" src="https://raw.githubusercontent.com/zakiahsanS/files/master/other/2.png" />][ko-fi]
-[<img align="left" alt="zakiahsanS | Github" width="48px" src="https://raw.githubusercontent.com/zakiahsanS/files/master/other/3.png" />][paypal]
-[<img align="left" alt="zakiahsanS | Instagram" width="48px" src="https://raw.githubusercontent.com/zakiahsanS/files/master/other/4.png" />][patreon]
-
-<br />
-<br />
-<br />
-
-Simple script to change color-schemes and fonts for [Termux](https://termux.com) terminal emulator.
-
-![gif](images/main.gif) <br />
 
 > **`termux-style` provides color-schemes and powerline-ready fonts to customize the appearance of the Termux terminal.**
 
@@ -35,15 +8,21 @@ Follow the steps below -
 
 ```bash
 # go to home dir - 
+
 cd $HOME
 
 # clone this repository - 
-git clone https://github.com/zakiahsanS/termux-style
+
+git clone https://github.com/Alekc74/Termux-colors-scheme
 
 # change to termux-style dir -
+
 cd termux-style
 
 # to install it, run -
+
+chmod +x install
+
 ./install
 
 # And Follow the steps, it'll be installed on your system.
@@ -60,10 +39,9 @@ $ termux-style
     │░▀█▀░█▀▀░█▀▄░█▄█░█░█░█░█░░░░░█▀▀░▀█▀░█░█░█░░░█▀▀░░│
     │░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░▄▄▄░▀▀█░░█░░░█░░█░░░█▀▀░░│
     │░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░░░▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░│
-    └──────────────────────────────────────────────────┘
-    [*] By- ZakiGans // zaki
+    └──────────────────────────────────────────────────
 
-    [C] Colors (89)
+    [C] Colors (470)
     [F] Fonts (20)
     [R] Random
     [I] Import
@@ -75,7 +53,7 @@ $ termux-style
 
 ### Features
 
-+ 90 popular color-schemes.
++ 470 popular color-schemes.
 + 20 powerline patched fonts.
 + Randomly change color-schemes.
 + Import color-schemes from *local file* or *file URL*.
