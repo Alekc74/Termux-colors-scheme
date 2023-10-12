@@ -78,21 +78,6 @@ $ termux-style
 + To import *web file*, enter the file url (e.g. - `https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties`) of the color-scheme.
 <br />
 
-### Previews
-
-|Colorschemes|Fonts|
-|--|--|
-|![img](images/colors.gif)|![img](images/fonts.gif)|
-
-|Import - URL|Import - Local|
-|--|--|
-|![img](images/url.gif)|![img](images/local.gif)|
-
-|Install|Uninstall|
-|--|--|
-|![img](images/install.gif)|![img](images/uninstall.png)|
-
-### FYI
 - An `uninstall` script is also added, in case you want to remove this program.
 - Again... If you can improve it, sure...
 - Have fun!
