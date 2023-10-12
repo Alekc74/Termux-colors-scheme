@@ -21,7 +21,7 @@ cd termux-style
 
 # to install it, run -
 
-chmod +x install
+chmod +x *
 
 ./install
 
