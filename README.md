@@ -42,7 +42,7 @@ $ termux-style
     └──────────────────────────────────────────────────
 
     [C] Colors (470)
-    [F] Fonts (20)
+    [F] Fonts (7)
     [R] Random
     [I] Import
     [A] About
